@@ -1,1 +1,5 @@
 # FRT-Project
+From Sample Excel Dataset I have Create a PowerBi Dashboard. and shows How Employees of Company Work for Their Company. like their 1.Working Preference 2.their Sick Leave Percentage in day of Week and Overall 3.Work From Home in Day of Week as Well as Overall Percentage 4.Their Presence Of time in the Workplace. By using HR Datasets I have done a Dashboard Report of their Employees of Past Three Months. And also Create a Templates of their work by Monthly, Weekly and by Employee's Name as Well as By Clicking on Monthly Templates We Can see the Fluctuation of Work and its also Reflected in Area chart.![1](https://user-images.githubusercontent.com/107246534/204028907-b27c06fc-0d11-439a-89f7-da640bad8eff.png)
+![2](https://user-images.githubusercontent.com/107246534/204028930-ca7cd3ff-54b7-4e65-ad2e-537d0b450951.png)
+![3](https://user-images.githubusercontent.com/107246534/204028934-b818f7d5-2ff6-4a2d-a5ce-9709aae48ec3.png)
+![4](https://user-images.githubusercontent.com/107246534/204028950-3e3161eb-52ef-4a55-81dd-bbe4e586c24e.png)
